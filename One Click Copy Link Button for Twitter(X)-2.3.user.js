@@ -2,8 +2,8 @@
 // @name         One Click Copy Link Button for Twitter(X)
 // @namespace    http://tampermonkey.net/
 // @version      3.0.0
-// @description  Add a button to copy the URL of a tweet on Twitter without clicking dropdown. Default to vxtwitter but customizable.
-// @author       Dinomcworld
+// @description  Add a button to copy the URL of a tweet on Twitter without clicking dropdown. Forked from Dinomcworld's One Click Copy Link Button for Twitter(X).
+// @author       Robert Gomez
 // @match        https://twitter.com/*
 // @match        https://mobile.twitter.com/*
 // @match        https://tweetdeck.twitter.com/*
