@@ -12,6 +12,10 @@
 // @icon         https://www.google.com/s2/favicons?domain=twitter.com
 // @grant        none
 // @license      MIT
+// @tag          twitter
+// @tag          twitter-x
+// @tag          social-media
+// @tag          gui
 
 // @downloadURL https://update.greasyfork.org/scripts/482477/One%20Click%20Copy%20Link%20Button%20for%20Twitter%28X%29.user.js
 // @updateURL https://update.greasyfork.org/scripts/482477/One%20Click%20Copy%20Link%20Button%20for%20Twitter%28X%29.meta.js
