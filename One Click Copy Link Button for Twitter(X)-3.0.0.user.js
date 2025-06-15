@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         One Click Copy Link Button for Twitter(X)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com
 // @version      3.0.0
 // @description  Add a button to copy the URL of a tweet on Twitter without clicking dropdown. Forked from Dinomcworld's One Click Copy Link Button for Twitter(X).
 // @author       Dinomcworld
@@ -17,8 +17,10 @@
 // @tag          social-media
 // @tag          gui
 
-// @downloadURL https://update.greasyfork.org/scripts/482477/One%20Click%20Copy%20Link%20Button%20for%20Twitter%28X%29.user.js
-// @updateURL https://update.greasyfork.org/scripts/482477/One%20Click%20Copy%20Link%20Button%20for%20Twitter%28X%29.meta.js
+// @downloadURL https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X/raw/refs/heads/master/One%20Click%20Copy%20Link%20Button%20for%20Twitter(X)-3.0.0.user.js
+// @updateURL https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X/raw/refs/heads/master/One%20Click%20Copy%20Link%20Button%20for%20Twitter(X)-3.0.0.user.js
+// @supportURL https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X
+// @homepage https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X
 // ==/UserScript==
 
 (function() {
