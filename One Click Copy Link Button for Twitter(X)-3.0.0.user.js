@@ -19,7 +19,7 @@
 
 // @downloadURL https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X/raw/refs/heads/master/One%20Click%20Copy%20Link%20Button%20for%20Twitter(X)-3.0.0.user.js
 // @updateURL https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X/raw/refs/heads/master/One%20Click%20Copy%20Link%20Button%20for%20Twitter(X)-3.0.0.user.js
-// @supportURL https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X
+// @supportURL https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X/issues
 // @homepage https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X
 
 // See Dinomcworld's original version @ https://greasyfork.org/en/scripts/482477-one-click-copy-link-button-for-twitter-x
