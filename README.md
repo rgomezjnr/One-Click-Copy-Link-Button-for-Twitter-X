@@ -8,7 +8,7 @@ Add a button to copy the URL of a tweet on Twitter without clicking dropdown. Fo
 ## Installation
 
 1. Install a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/), or [Greasemonkey](https://github.com/greasemonkey/greasemonkey)
-2. Click the following link to install the script: [One Click Copy Link Button for Twitter(X)](./One%20Click%20Copy%20Link%20Button%20for%20Twitter(X)-3.0.0.user.js)
+2. Click the following link to install the script: [One Click Copy Link Button for Twitter(X)](https://github.com/rgomezjnr/One-Click-Copy-Link-Button-for-Twitter-X/raw/refs/heads/master/One%20Click%20Copy%20Link%20Button%20for%20Twitter(X)-3.0.0.user.js)
 3. Your userscript manager will prompt you to review and install the script. Click "Install" to add it.
 
 ## Usage
